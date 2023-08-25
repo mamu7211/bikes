@@ -1,0 +1,23 @@
+{
+  "name": "bikes",
+  "productName" : "Bikes",
+  "version": "0.0.1",
+  "description": "A simple bike shop application.",
+  "main": "main.js",
+  "scripts": {
+    "start": "electron ."
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/mamu7211/bikes.git"
+  },
+  "author": "Martin Murrer",
+  "license": "MIT",
+  "bugs": {
+    "url": "https://github.com/mamu7211/bikes/issues"
+  },
+  "homepage": "https://github.com/mamu7211/bikes#readme",
+  "dependencies": {
+    "electron": "^26.1.0"
+  }
+}
